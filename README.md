@@ -24,7 +24,7 @@
 1. Clone the repository
 
 ```
-git clone https://github.com/ekkyarmandi/bisik.git
+git clone https://github.com/taytaybear/bisik.git
 ```
 
 2. Install dependencies
